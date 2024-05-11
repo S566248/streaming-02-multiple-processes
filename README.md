@@ -1,3 +1,8 @@
+
+Tyler Stanton's Module 2
+
+This repo follows and executes the instructions listed below.
+
 # streaming-02-multiple-processes
 
 > Multiple processes accessing a shared resource concurrently

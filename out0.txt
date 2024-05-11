@@ -5,3 +5,20 @@ This will clear the console output.
 Run the file once while the tasks are short. 
 
 Copy and paste the terminal results (when task_duration is 0) here.
+
+2024-05-10 23:03:45,256 - INFO - Called recreate_database().
+2024-05-10 23:03:45,256 - INFO - Called drop_table().
+2024-05-10 23:03:45,271 - INFO - Table 'pets' dropped successfully.
+2024-05-10 23:03:45,272 - INFO - Called create_table().
+2024-05-10 23:03:45,281 - INFO - Table 'pets' created successfully.
+2024-05-10 23:03:45,568 - INFO - Called process_one().
+2024-05-10 23:03:45,569 - INFO -   Called insert_pet() with process=P1, name=Ace, breed=Dog.
+2024-05-10 23:03:45,582 - INFO -   Called insert_pet() with process=P1, name=Buddy, breed=Dog.
+2024-05-10 23:03:45,596 - INFO - Called process_three().
+2024-05-10 23:03:45,597 - INFO -   Called insert_pet() with process=P3, name=Emma, breed=Rabbit.
+2024-05-10 23:03:45,609 - INFO - Called process_two().
+2024-05-10 23:03:45,609 - INFO -   Called insert_pet() with process=P2, name=Cooper, breed=Rabbit.
+2024-05-10 23:03:45,612 - INFO -   Called insert_pet() with process=P3, name=Felix, breed=Cat.
+2024-05-10 23:03:45,646 - INFO -   Called insert_pet() with process=P2, name=Dingo, breed=Dog.
+2024-05-10 23:03:45,689 - INFO - 
+SUCCESS: All processes successfully completed!
